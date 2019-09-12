@@ -1,3 +1,3 @@
-#calendario con js
+#Calendario
 
 este es un proyecto
